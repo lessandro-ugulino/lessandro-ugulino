@@ -1,4 +1,4 @@
-<i>Pro AWS Solutions Architect, Microsoft Certified Solution Associate (MCSA), and ITIL v3 Certified.
+<i>Red Hat Certified System Administrator (RHCSA), Pro AWS Solutions Architect, Microsoft Certified Solution Associate (MCSA), and ITIL v3 Certified.
 
 Over eleven years of industry experience in large, technically complex environments, with exposure to a diverse array of products and platforms, predominantly in the area of the internet infrastructure, security, and cloud technologies.</i>
 
