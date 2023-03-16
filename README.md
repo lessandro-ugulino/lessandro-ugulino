@@ -2,7 +2,7 @@
 
 Over eleven years of industry experience in large, technically complex environments, with exposure to a diverse array of products and platforms, predominantly in the area of the internet infrastructure, security, and cloud technologies.</i>
 
-:toolbox: <a href="https://github.com/lessandro-ugulino/whoami#personal-projects)">Personal projects</a>
+:toolbox: <a href="https://github.com/lessandro-ugulino/whoami#personal-projects">Personal projects</a>
 
 :earth_asia: <a href="https://lessandro.ugulino.com">Website</a>
 
