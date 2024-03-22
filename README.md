@@ -1,6 +1,6 @@
-<i>Red Hat Certified System Administrator (RHCSA), Pro AWS Solutions Architect, Microsoft Certified Solution Associate (MCSA), and ITIL v3 Certified.
+<i>CKS and CKA certified, Red Hat Certified System Administrator (RHCSA), Pro AWS Solutions Architect, Microsoft Azure Administrator and Microsoft Certified Solution Associate (MCSA), and ITIL v3 Certified.
 
-Over eleven years of industry experience in large, technically complex environments, with exposure to a diverse array of products and platforms, predominantly in the area of the internet infrastructure, security, and cloud technologies.</i>
+Over 14 years of industry experience in large, technically complex environments, with exposure to a diverse array of products and platforms, predominantly in the area of the internet infrastructure, security, and cloud technologies.</i>
 
 :toolbox: <a href="https://github.com/lessandro-ugulino/whoami#personal-projects">Personal projects</a>
 
